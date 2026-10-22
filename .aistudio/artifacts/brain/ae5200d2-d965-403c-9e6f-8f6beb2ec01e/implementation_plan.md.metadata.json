@@ -1,0 +1,6 @@
+{
+  "summary":  "Amended Spark-strict plan with 1-callout isApprovedMember helper, solo-only Stage 1 scope (group quests deferred to v2 with participantIds field preserved), removed batch-inherited approval claims on ledger, activeQuestCount == 0 requirement for leaving, solo-fail batch as the primary emulator limit test in Step 0.2, and recounted 5-12 callout audit table.",
+  "updatedAt":  "2026-10-22T20:36:01.274459319Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
